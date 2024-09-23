@@ -19,6 +19,8 @@ def main():
             It returns the first and last colour from the list. 
         
     """
+    
+    
     colours=input("Enter the colours separated by(,): ")
     #colours=['red','green','purple','black','white']--
     colour=colours.split(',')
