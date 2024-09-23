@@ -14,9 +14,9 @@ def main():
         Description: 
             This function is used to cover to list and tuple a given string.
         Parameters:
-          Taking f_name and l_name from the user.
+          numbers is used to take the input from the user.
         Return:
-            It returns the reversed string. 
+            It returns the list and tuple. 
         
     """
     
