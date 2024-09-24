@@ -10,7 +10,6 @@
 
    
 from pathlib import Path   
-#import os  os.path.isfile
     
 def f_pathexists(f_path):
     """
@@ -31,6 +30,7 @@ def main():
     """
     file_path is an input from the user search the file
     """
+    
     file_path = input("Enter the path of the file: ").strip()
         
     if  f_pathexists(file_path):
