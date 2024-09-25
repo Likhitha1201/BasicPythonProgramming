@@ -25,7 +25,8 @@ def main():
 fun_name= input("Enter the function name: ")
 num=int(input("Enter the negative number:"))
 print(f"Documentation of the {fun_name}() will be:")
-answer=eval(fun_name)(num) # eval = This allows you to call the function based on its name as a string. 
+answer=eval(fun_name)(num) 
+# eval = This allows you to call the function based on its name as a string. 
 print(f"{fun_name}({num}) willbe:",answer)
 
 
