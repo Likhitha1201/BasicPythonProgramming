@@ -33,7 +33,6 @@ def create_histogram(data):
     plt.show()
     
     
-    
 def main():
     """
         data is taken from user the user and pass to a called  function.

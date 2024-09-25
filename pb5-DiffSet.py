@@ -33,6 +33,5 @@ def fun():
     print("Colors in set1 but not in set2:", set1 - set2)
 
 
-
 if __name__=="__main__":
     fun()
