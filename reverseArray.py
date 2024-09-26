@@ -1,11 +1,10 @@
 """ 
 
     @Author: Likhitha S
-    @Date: 26-09-2024 11:40
+    @Date: 26-09-2024 11:50
     @Last Modified by: Likhitha S
-    @Last Modified time: 26-09-2024 11:40
-    @Title: Write a Python program to create an array of 5 integers and display the array items. 
-    Access individual element through indexes.
+    @Last Modified time: 26-09-2024 11:50
+    @Title: Write a Python program to reverse the order of the items in the array.
 
 """
 
