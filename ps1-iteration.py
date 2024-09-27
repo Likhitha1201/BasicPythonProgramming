@@ -1,10 +1,10 @@
 """ 
 
     @Author: Likhitha S
-    @Date: 27-09-2024 14:00
+    @Date: 27-09-2024 14:15
     @Last Modified by: Likhitha S
-    @Last Modified time: 27-09-2024 14:00
-    @Title: Write a Python program to create a set.
+    @Last Modified time: 27-09-2024 14:15
+    @Title: Write a Python program to iterate a set.
     
 """
 
@@ -15,9 +15,9 @@ def main():
         Description:
             This function is used to create a set.
         Parameters:
-           set1 and set2 is a container which holds the data init .
+           set1  is a container which holds the data init .
         Return:
-            It prints the set.
+            It prints the elements one by one from a set.
                     
     """
 
