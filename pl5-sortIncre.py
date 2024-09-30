@@ -16,11 +16,11 @@ def main():
     """
         
         Description:
-           This function is used to sort the list in decending order.
+           This function is used to sort the list in increasing order.
         Parameter:
            lt is a container which holds the data init .
         Return:
-           It print's list in decending order.
+           It print's list in increasing order.
                     
     """
  

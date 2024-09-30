@@ -1,9 +1,9 @@
 """ 
 
     @Author: Likhitha S
-    @Date: 27-09-2024 15:15
+    @Date: 27-09-2024 15:20
     @Last Modified by: Likhitha S
-    @Last Modified time: 27-09-2024 15:15
+    @Last Modified time: 27-09-2024 15:20
     @Title: Write a Python program to find smallest ele from a list..
     
 """
@@ -23,7 +23,6 @@ def main():
     
     lt=[12,34,45,56,57]
     small=min(lt)
-        
     print("smallest ele in a list is: ",small)
     
     
