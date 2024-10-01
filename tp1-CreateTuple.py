@@ -23,9 +23,7 @@ def main():
   
     tup=() # Empty tuple is created
     tup=tup+(100,200,)
-    tup=tup+("reeya",)
-    tup=tup+(300,400,500,) # inserting values to  an empty tuple
-    tup=tup+("chummi",600,700)
+    tup=tup+(300,400,500) # inserting values to  an empty tuple
     print(tup)
     
 if __name__=="__main__":
